@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=CLK_INPUT.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=CLK_INPUT.SchDoc|FileName=CTRL_LOGIC.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=CLK_INPUT.SchDoc|FileName=DDS_channel.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=CLK_INPUT.SchDoc|FileName=DDS_OUT_channel.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=CLK_INPUT.SchDoc|FileName=LVDS_IFC_DDS.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=CLK_INPUT.SchDoc|FileName=Supply_DDS.SchDoc|SheetNumber=3
