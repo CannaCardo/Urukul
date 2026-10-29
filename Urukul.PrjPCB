@@ -650,7 +650,7 @@ UniqueId=A2FB463C-E379-4070-9A11-B2A9E4752451
 Description=EEM_AD9910
 AllowFabrication=0
 ParameterCount=0
-VariationCount=394
+VariationCount=395
 Variation1=Designator=T_IC3|UniqueId=\HFXIRERH\RTXDXYRA|Kind=1|AlternatePart==Device
 ParamVariation1=ParameterName=Comment|VariantValue==Device
 ParamDesignator1=T_IC3
@@ -1813,6 +1813,7 @@ Variation391=Designator=T_R99|UniqueId=\JZTGDCJN\AGEZKFCJ\KXBLOKLH|Kind=1|Altern
 Variation392=Designator=T_R98|UniqueId=\JZTGDCJN\AGEZKFCJ\LXLRKCDJ|Kind=1|AlternatePart=
 Variation393=Designator=T_R101|UniqueId=\JZTGDCJN\AGEZKFCJ\UCLISSOL|Kind=1|AlternatePart=
 Variation394=Designator=T_C64|UniqueId=\JZTGDCJN\AGEZKFCJ\PFKHLQVA|Kind=1|AlternatePart=
+Variation395=Designator=R281|UniqueId=\BTRXFAHV\QCLVKXGK\NQKXTZKS|Kind=1|AlternatePart=
 ParamVariationCount=384
 
 [ProjectVariant2]
@@ -1820,7 +1821,7 @@ UniqueId=FF22405C-FE62-488A-BD81-7556D92D9FDF
 Description=EEM_AD9912
 AllowFabrication=0
 ParameterCount=0
-VariationCount=403
+VariationCount=404
 Variation1=Designator=T_IC3|UniqueId=\HFXIRERH\RTXDXYRA|Kind=1|AlternatePart==Device
 ParamVariation1=ParameterName=Comment|VariantValue==Device
 ParamDesignator1=T_IC3
@@ -2992,6 +2993,7 @@ Variation400=Designator=R54A|UniqueId=\1HLOWTXOG\ZOZKKHSA|Kind=1|AlternatePart=
 Variation401=Designator=R54B|UniqueId=\2HLOWTXOG\ZOZKKHSA|Kind=1|AlternatePart=
 Variation402=Designator=R54C|UniqueId=\3HLOWTXOG\ZOZKKHSA|Kind=1|AlternatePart=
 Variation403=Designator=R54D|UniqueId=\4HLOWTXOG\ZOZKKHSA|Kind=1|AlternatePart=
+Variation404=Designator=R281|UniqueId=\BTRXFAHV\QCLVKXGK\NQKXTZKS|Kind=1|AlternatePart=
 ParamVariationCount=384
 
 [ProjectVariant3]
@@ -2999,7 +3001,7 @@ UniqueId=9B67D6B0-16CF-46F1-A082-28F39AAF0D0C
 Description=DIOT_AD9910
 AllowFabrication=0
 ParameterCount=0
-VariationCount=359
+VariationCount=360
 Variation1=Designator=T_IC3|UniqueId=\HFXIRERH\RTXDXYRA|Kind=1|AlternatePart==Device
 ParamVariation1=ParameterName=Comment|VariantValue==Device
 ParamDesignator1=T_IC3
@@ -4001,6 +4003,7 @@ Variation356=Designator=T_R99|UniqueId=\JZTGDCJN\AGEZKFCJ\KXBLOKLH|Kind=1|Altern
 Variation357=Designator=T_R98|UniqueId=\JZTGDCJN\AGEZKFCJ\LXLRKCDJ|Kind=1|AlternatePart=
 Variation358=Designator=T_R101|UniqueId=\JZTGDCJN\AGEZKFCJ\UCLISSOL|Kind=1|AlternatePart=
 Variation359=Designator=T_C64|UniqueId=\JZTGDCJN\AGEZKFCJ\PFKHLQVA|Kind=1|AlternatePart=
+Variation360=Designator=R281|UniqueId=\BTRXFAHV\QCLVKXGK\NQKXTZKS|Kind=1|AlternatePart=
 ParamVariationCount=321
 
 [ProjectVariant4]
@@ -4008,7 +4011,7 @@ UniqueId=F7660468-D95A-498F-A493-3FCCA396FE9F
 Description=DIOT_AD9912
 AllowFabrication=0
 ParameterCount=0
-VariationCount=368
+VariationCount=369
 Variation1=Designator=T_IC3|UniqueId=\HFXIRERH\RTXDXYRA|Kind=1|AlternatePart==Device
 ParamVariation1=ParameterName=Comment|VariantValue==Device
 ParamDesignator1=T_IC3
@@ -5019,35 +5022,36 @@ Variation365=Designator=R54A|UniqueId=\1HLOWTXOG\ZOZKKHSA|Kind=1|AlternatePart=
 Variation366=Designator=R54B|UniqueId=\2HLOWTXOG\ZOZKKHSA|Kind=1|AlternatePart=
 Variation367=Designator=R54C|UniqueId=\3HLOWTXOG\ZOZKKHSA|Kind=1|AlternatePart=
 Variation368=Designator=R54D|UniqueId=\4HLOWTXOG\ZOZKKHSA|Kind=1|AlternatePart=
+Variation369=Designator=R281|UniqueId=\BTRXFAHV\QCLVKXGK\NQKXTZKS|Kind=1|AlternatePart=
 ParamVariationCount=321
 
 [Parameter1]
-Name=P_copyright_owner
-Value=WUT ISE 2024-2025 · Technosystem 2025-2026
+Name=P_version
+Value=2.0
 
 [Parameter2]
-Name=P_github_link
-Value=https://github.com/sinara-hw/Urukul
-
-[Parameter3]
-Name=P_release_designers
-Value=Krzysztof Belewicz (WUT), Grzegorz Kasprowicz (WUT), Filip Światkowski (WUT), Paweł Kulik (WUT), Maciej Przybysz (WUT)
-
-[Parameter4]
-Name=P_release_owner
-Value=Krzysztof Belewicz (ISE WUT)
-
-[Parameter5]
-Name=P_release_reviewers
-Value=Marcin Kiepiela (TS), Marta Fąfara (TS)
-
-[Parameter6]
 Name=P_template_version
 Value=1.4
 
+[Parameter3]
+Name=P_release_reviewers
+Value=Marta Fąfara (TS), Maciej Przybysz (TS)
+
+[Parameter4]
+Name=P_release_owner
+Value=Mikołaj Sowiński (TS)
+
+[Parameter5]
+Name=P_release_designers
+Value=Krzysztof Belewicz (WUT), Marta Fąfara (TS)
+
+[Parameter6]
+Name=P_github_link
+Value=https://github.com/sinara-hw/Urukul
+
 [Parameter7]
-Name=P_version
-Value=1.6.0
+Name=P_copyright_owner
+Value=WUT ISE 2024-2025 · Technosystem 2025-2026
 
 [Configuration1]
 Name=Sources
